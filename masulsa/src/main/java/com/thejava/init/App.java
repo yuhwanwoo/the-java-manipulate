@@ -1,4 +1,4 @@
-package com.thejava;
+package com.thejava.init;
 
 /**
  * Hello world!

@@ -1,8 +1,8 @@
-package com.thejava;
+package com.thejava.init;
 
 public class Moim {
-    int maxNumberOfAttendees;
-    int numberOfEnrollment;
+    public int maxNumberOfAttendees;
+    public int numberOfEnrollment;
 
     public boolean isEnrollmentFull() {
         if (maxNumberOfAttendees == 0) {
